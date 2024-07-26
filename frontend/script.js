@@ -1,5 +1,5 @@
 // Replace with your API endpoint
-const apiUrl = 'http://localhost:3000/vehicle';
+const apiUrl = 'https://trackmycar.onrender.com/vehicle';
 
 // Initialize the map
 const map = L.map('map').setView([23.221169838733566,77.40406375765923], 13);
